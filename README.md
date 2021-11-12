@@ -9,5 +9,6 @@ Repositorio para boletines de PSP
 - [x] [Ejercicio 5](https://github.com/ppereiramoure/PSP/tree/main/src/ejercicio%205)
 - [x] ~~Ejercicio 6~~
 - [x] [Ejercicio 7](https://github.com/ppereiramoure/PSP/tree/main/src/ejercicio%207)
+- [ ] [Ascensor]()
 
 
