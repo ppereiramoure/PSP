@@ -7,7 +7,7 @@ Repositorio para boletines de PSP
 - [x] [Ejercicio 3](https://github.com/ppereiramoure/PSP/tree/main/src/ejercicio%203)
 - [x] [Ejercicio 4](https://github.com/ppereiramoure/PSP/tree/main/src/ejercicio%204)
 - [x] [Ejercicio 5](https://github.com/ppereiramoure/PSP/tree/main/src/ejercicio%205)
-- [x] ~~Ejercicio 6~~
+- [ ] ~~Ejercicio 6~~
 - [x] [Ejercicio 7](https://github.com/ppereiramoure/PSP/tree/main/src/ejercicio%207)
 - [ ] [Ascensor]()
 
